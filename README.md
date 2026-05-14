@@ -1,6 +1,6 @@
-# Difference-Arrays-ArrayLists
+Difference-Arrays-ArrayLists
 
-## Arrays vs ArrayLists in Java
+Arrays vs ArrayLists in Java
 
 Arrays and ArrayLists in Java are both used to store multiple values, but they work differently. An array is a fixed-size container that stores values of the same type. Once an array is created, its size cannot be changed. Arrays are useful when the programmer already knows how many values need to be stored. Arrays can also store primitive data types such as int, double, and char.
 
@@ -8,7 +8,7 @@ An ArrayList is part of the Java Collections Framework and works more like a fle
 
 The main conceptual difference is that arrays have a fixed length while ArrayLists are dynamic and resizable. Arrays use .length to find the size, while ArrayLists use .size(). Arrays can directly store primitive types, but ArrayLists use wrapper classes like Integer instead of int.
 
-## Program Demonstration
+Program Demonstration
 
 This Java program demonstrates:
 - Creating an array
@@ -18,12 +18,12 @@ This Java program demonstrates:
 - Removing elements from an ArrayList
 - Comparing array length and ArrayList size
 
-## GitHub Repository
+GitHub Repository
 
 Repository URL:
 https://github.com/Thunderiel/Difference-Arrays-ArrayLists
 
-## References
+References
 
 Oracle. (n.d.). Arrays. Oracle Java Tutorials. https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
 
